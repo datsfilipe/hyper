@@ -1,8 +1,8 @@
 'use strict';
 
-const backgroundColor = '#191622';
+const backgroundColor = '#191919';
 const foregroundColor = '#E1E1E6';
-const borderColor = '#483C67';
+const borderColor = '#3f3f3f';
 const cursorColor = '#f8f8f2';
 const colors = {
   black: '#000000',
