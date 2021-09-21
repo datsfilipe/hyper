@@ -1,8 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
-  <br>
-  Omni for <a href="https://hyper.is">Hyper</a>
+  Omni Customized for <a href="https://hyper.is">Hyper</a>
   <br>
 </h1>
 
@@ -18,25 +16,27 @@
 
 <p align="center">
   <a href="#install">Install</a> •
-  <a href="#team">Team</a> •
+  <a href="#description">Description</a> •
+  <a href="#original-theme">Original Theme</a> •
   <a href="#license">License</a>
 </p>
 
 <p align="center">
-  <img alt="Omni screnshoot for Hyper" src="./screenshot.png">
+  <img width="400" alt="Omni screnshoot for Hyper" src="./screenshot.png">
 </p>
 
 ## Install
 
 All instructions can be found at [INSTALL.md](./INSTALL.md).
 
-## Team
+## Description
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/template/graphs/contributors).
 
-| [![Mayk Brito](https://github.com/maykbrito.png?size=100)](https://github.com/maykbrito) | [![João Pedro](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [Mayk Brito](https://github.com/maykbrito)                                               | [João Pedro](https://github.com/jpedroschmitz)                                               |
+This is a fork of Omni Theme for hyper by Rocketseat with color changes for personal use.
+
+## Original Theme
+
+You can find the original visual-studio-code theme of Omni [here](https://github.com/getomni/hyper).
 
 ## License
 
