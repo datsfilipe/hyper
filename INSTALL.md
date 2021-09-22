@@ -1,6 +1,6 @@
 ### [Hyper](https://hyper.is/)
 
-There are 2 different ways to install Omni on Hyper.
+There are 2 different ways to install Omni Customized on Hyper.
 
 #### 1. Install using the hyper CLI (recommended)
 
