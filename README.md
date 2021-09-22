@@ -36,7 +36,7 @@ This is a fork of Omni Theme for hyper by Rocketseat with color changes for pers
 
 ## Original Theme
 
-You can find the original visual-studio-code theme of Omni [here](https://github.com/getomni/hyper).
+You can find the original hyper theme of Omni [here](https://github.com/getomni/hyper).
 
 ## License
 
