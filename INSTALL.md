@@ -10,7 +10,7 @@ $ hyper install hyper-omni-customized
 
 #### 2. Install using config file
 
-Add `hyper-omni-theme` to the plugins list in your `~/.hyper.js` config file.
+Add `hyper-omni-customized` to the plugins list in your `~/.hyper.js` config file.
 
 ```shell
 plugins: [
